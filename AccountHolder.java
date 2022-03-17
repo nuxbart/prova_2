@@ -1,5 +1,3 @@
-package oop.lab03.bank;
-
 public class AccountHolder {
 
     private final String name;
