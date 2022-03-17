@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/prova_2.iml" filepath="$PROJECT_DIR$/prova_2.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/AnnaEleGitHubProj.iml" filepath="$PROJECT_DIR$/AnnaEleGitHubProj.iml" />
->>>>>>> 5d7ca5f (changed AccontHolder class)
     </modules>
   </component>
 </project>
