@@ -1,10 +1,3 @@
-package it.unibo.oop.lab.collections1;
-
-import java.util.List;
-import java.util.Map;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.LinkedList;
 
 /**
  * Example class using {@link java.util.List} and {@link java.util.Map}.
